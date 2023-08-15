@@ -46,7 +46,7 @@ train_ProbVLM(
 ## Dataset Setup
 To setup the COCO, CUB, Flickr and the Oxford-Flowers dataset, please follow the below instructions:
 
-COCO: Download the 2014 data [https://cocodataset.org/#home](here) and setup the directory in the following way
+COCO: Download the 2014 data [here](https://cocodataset.org/#home) and setup the directory in the following way
 ```
 coco
 |-images/
@@ -57,12 +57,12 @@ coco
 
 ```
 
-CUB: Download the CUB-200-2011 dataset (http://www.vision.caltech.edu/datasets/cub_200_2011/)[here] and the captions from [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr2016).  
+CUB: Download the CUB-200-2011 dataset [here](http://www.vision.caltech.edu/datasets/cub_200_2011/) and the captions from [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr2016).  
 
-Flowers: Download the images (https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)[here] and the captions from [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr2016).  
+Flowers: Download the images [here](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) and the captions from [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr2016).  
 
 
-Flickr: Dwonload the images and captions from (https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset)[here]. 
+Flickr: Dwonload the images and captions from [here](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset). 
 
 ## Resources
 
