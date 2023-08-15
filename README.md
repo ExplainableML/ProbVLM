@@ -44,7 +44,7 @@ train_ProbVLM(
 
 ## Resources
 
-We use the following resources to use as the base models (on top of which we train different BayesCap)
+We use the following resources to use as the base models (on top of which we train different ProbVLM models)
 
 - CLIP: [https://github.com/openai/CLIP](https://github.com/openai/CLIP)
 - BLIP: [https://github.com/salesforce/LAVIS](https://github.com/salesforce/LAVIS)
