@@ -10,7 +10,7 @@
 
 The structure of the repository is as follows:
 ```
-BayesCap
+ProbVLM
 |-src/ (has the relevant code to train ProbVLM for a pretrained vision-language model, e.g., CLIP)
 |-requirements.txt (the environment dependencies)
 |-figs/ (has some example images)
