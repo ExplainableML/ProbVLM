@@ -42,6 +42,28 @@ train_ProbVLM(
 )
 ```
 
+
+## Dataset Setup
+To setup the COCO, CUB, Flickr and the Oxford-Flowers dataset, please follow the below instructions:
+
+COCO: Download the 2014 data [https://cocodataset.org/#home](here) and setup the directory in the following way
+```
+coco
+|-images/
+|--train2014 
+|--val2014 
+|-captions_train2014.json 
+|-captions_val2014.json
+
+```
+
+CUB: Download the CUB-200-2011 dataset (http://www.vision.caltech.edu/datasets/cub_200_2011/)[here] and the captions from [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr2016).  
+
+Flowers: Download the images (https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)[here] and the captions from [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr2016).  
+
+
+Flickr: Dwonload the images and captions from (https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset)[here]. 
+
 ## Resources
 
 We use the following resources to use as the base models (on top of which we train different ProbVLM models)
