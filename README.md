@@ -1,4 +1,4 @@
-# ProbVLM: Probabilistic Adapter for Frozen Vison-Language Models
+# ProbVLM: Probabilistic Adapter for Frozen Vision-Language Models
 ## [Arxiv paper](https://arxiv.org/pdf/2307.00398.pdf) || [Blog](https://www.eml-unitue.de/publication/ProbVLM)
 
 ## Introduction
@@ -78,7 +78,7 @@ Please cite the following works
 
 ```
 @inproceedings{Upa_probvlm,
-  title = {ProbVLM: Probabilistic Adapter for Frozen Vison-Language Models},
+  title = {ProbVLM: Probabilistic Adapter for Frozen Vision-Language Models},
   author = {Upadhyay, U. and Karthik, S. and Mancini, M. and Akata, Z.},
   booktitle = {International Conference on Computer Vision (ICCV 2023)},
   year = {2023}
