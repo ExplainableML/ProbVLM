@@ -163,7 +163,7 @@ def get_GGuncer(x_alpha, x_beta, c1=3, c2=2.8):
     a = torch.clip(a, min=1e-4, max=5)
     b = x_beta + 0.1
     b = torch.clip(b, min=0.1, max=5)
-    u = (a**2)*torch.exp(torch.lgamma(3/b))/torch.exp(torch.lgamma(2.8/b))
+    u = (a**2)*torch.exp(torch.lgamma(3/b))/torch.exp(torch.lgamma(1.0/b))
     return u
     
 def multi_fwpass_ProbVLM(
